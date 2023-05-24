@@ -1,0 +1,15 @@
+C:\Users\Giovana Vari\Documents\DIO\.NET\fifo\obj\Debug\net7.0\fifo.csproj.AssemblyReference.cache
+C:\Users\Giovana Vari\Documents\DIO\.NET\fifo\obj\Debug\net7.0\fifo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovana Vari\Documents\DIO\.NET\fifo\obj\Debug\net7.0\fifo.AssemblyInfoInputs.cache
+C:\Users\Giovana Vari\Documents\DIO\.NET\fifo\obj\Debug\net7.0\fifo.AssemblyInfo.cs
+C:\Users\Giovana Vari\Documents\DIO\.NET\fifo\obj\Debug\net7.0\fifo.csproj.CoreCompileInputs.cache
+C:\Users\Giovana Vari\Documents\DIO\.NET\fifo\bin\Debug\net7.0\fifo.exe
+C:\Users\Giovana Vari\Documents\DIO\.NET\fifo\bin\Debug\net7.0\fifo.deps.json
+C:\Users\Giovana Vari\Documents\DIO\.NET\fifo\bin\Debug\net7.0\fifo.runtimeconfig.json
+C:\Users\Giovana Vari\Documents\DIO\.NET\fifo\bin\Debug\net7.0\fifo.dll
+C:\Users\Giovana Vari\Documents\DIO\.NET\fifo\bin\Debug\net7.0\fifo.pdb
+C:\Users\Giovana Vari\Documents\DIO\.NET\fifo\obj\Debug\net7.0\fifo.dll
+C:\Users\Giovana Vari\Documents\DIO\.NET\fifo\obj\Debug\net7.0\refint\fifo.dll
+C:\Users\Giovana Vari\Documents\DIO\.NET\fifo\obj\Debug\net7.0\fifo.pdb
+C:\Users\Giovana Vari\Documents\DIO\.NET\fifo\obj\Debug\net7.0\fifo.genruntimeconfig.cache
+C:\Users\Giovana Vari\Documents\DIO\.NET\fifo\obj\Debug\net7.0\ref\fifo.dll
